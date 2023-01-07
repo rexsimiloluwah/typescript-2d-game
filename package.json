@@ -1,0 +1,18 @@
+{
+  "name": "javascript-2d-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./src/index.html & parcel watch ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2",
+    "parcel-reporter-static-files-copy": "^1.5.0",
+    "prettier": "^2.8.1"
+  }
+}
