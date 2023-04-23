@@ -15,4 +15,8 @@
   transform: translate(-50%, -50%);
 }
 
+#layer1, #layer2, #layer3, #layer4, #player, #angler1, #angler2, #lucky, #projectile, #gears, #hivewhale, #drone, #fireExplosion, #smokeExplosion {
+  display: none;
+}
+
 /*# sourceMappingURL=index.971c2ea4.css.map */
